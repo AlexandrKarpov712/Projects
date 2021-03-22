@@ -9,6 +9,7 @@ import mymodule as m
 a = float(m.text("Введите a = "))
 b = float(m.text("Введите b = "))
 c = float(m.text("Введите c = "))
+d = float(m.text("Введите c = "))
 
 if a == 0:
     x = -c / b
